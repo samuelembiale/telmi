@@ -1,0 +1,78 @@
+{  
+    "onboarding_ttile1":"Fun",
+    "onboarding_descrioption1":"Creating meaningful connections with characters and stories that you can relate to and learn from",
+    "onboarding_ttile2":"Adventure",
+    "onboarding_descrioption2": "Explore new worlds and learn about different cultures, and, animals through exciting stories and adventures.",
+    "onboarding_ttile3":"Imagine",
+    "onboarding_descrioption3": "Make a story that sparks your imagination, expands your knowledge, and embraces your unique perspective.",
+    "explore":"Explore",
+    "record":"Record",
+    "library":"Library",
+    "good_morning_message":"Good\nmorning",
+    "explore_text_message":"Have a great day!",
+    "recommended_card_title":"Recommended \nMorning Playlist",
+    "card_time":"26 min",
+    "card_message":" Play",
+    "explore_club_text":"Explore clubs",
+    "club_name1":"Storytelling",
+    "club_name2":"Coding",
+    "club_name3":"Musician",
+    "club_name4":"Sport",
+    "club_card_title1":"Cheerful mood",
+    "club_card_time":"26 min",
+    "club_card_title2":"Inspiration",
+    "club_card_time2":"32 min",
+    "record_page_title":"Book club",
+    "record_podcast_title":"Love of Reading",
+    "playlist":"Playlist",
+    "club_name":"Book club",
+    "recently_played":"Recently Played",
+    "library_podcast_title1":"My Goals for 2023",
+    "library_podcast_episode1":"Episode 06",
+    "library_podcast_time1":"27 mins remaining",
+    "library_podcast_title2":"Why I love playing",
+    "library_podcast_episode2":"Episode 12",
+    "library_podcast_time2":"7 mins remaining",
+    "library_podcast_title3":"My Chrismas",
+    "library_podcast_episode3":"Episode 03",
+    "library_podcast_time3":"13 mins remaining",
+    "library_podcast_title4":"I love football",
+    "library_podcast_episode4":"Episode 07",
+    "library_podcast_time4":"12 mins remaining",
+    "library_podcast_title5":"The stolen present",
+    "library_podcast_episode5":"Episode 02",
+    "library_podcast_time5":"9 mins remaining",
+    "library_podcast_title6":"My favorite game",
+    "library_podcast_episode6":"Episode 11",
+    "library_podcast_time6":"18 mins remaining",
+    "library_podcast_title7":"My yummy food",
+    "library_podcast_episode7":"Episode 08",
+    "library_podcast_time7":"33 mins remaining",
+    "setting":"Setting",
+    "reviews":"Reviews",
+    "user_status":"Active",
+    "profile_settings":"Profile Setiings:",
+    "edit_profile":"Edit Profile",
+    "change_password":"Change Password",
+    "logout":"Logout",
+    "app_settings":"App Settings:",
+    "notification":"Notification",
+    "rate_review":"Rate & Review",
+    "privacy_policy":"Privacy Policy",
+    "terms_conditions":"Terms & Conditions",
+    "contact_us":"Contact Us",
+    "language":"Language",
+    "version":"Version",
+    "powered_by":"Powered by "
+    
+    
+
+
+  
+
+
+
+
+
+
+}
